@@ -1,4 +1,5 @@
 <header>
+# Hello GitHub
 
 <!--
   <<< Author notes: Course header >>>
